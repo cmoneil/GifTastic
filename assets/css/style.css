@@ -1,5 +1,5 @@
-.gifArea {
-    border: solid 5px black;
+.imageBlock {
+ margin-left: 5px;
 }
 
 #thingButtons{
@@ -9,4 +9,11 @@
 
 p {
     margin-bottom: 0;
+    
+
+}
+
+.stuff {
+    
+
 }
