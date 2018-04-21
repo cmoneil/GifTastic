@@ -1,5 +1,10 @@
+body {
+    font-family: 'Rock Salt', cursive;
+}
+
 .imageBlock {
  margin-left: 5px;
+ padding-left: 5px;
 }
 
 #thingButtons{
@@ -9,11 +14,17 @@
 
 p {
     margin-bottom: 0;
-    
-
+    margin-left: 5px;
 }
 
-.stuff {
-    
 
+.jumbotron {
+    background-image: url(https://media.giphy.com/media/DgLwPZVu5tT32/giphy.gif);
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 100px;
 }
